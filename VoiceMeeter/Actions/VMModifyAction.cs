@@ -29,7 +29,14 @@ namespace VoiceMeeter
             eqgain2 = 12,
             eqgain3 = 13,
             mc      = 14,
-            audibility = 15
+            audibility = 15,
+            a1 = 16,
+            a2 = 17,
+            a3 = 18,
+            a4 = 19,
+            b1 = 20,
+            b2 = 21,
+            b3 = 22
         }
 
         private class PluginSettings
